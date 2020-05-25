@@ -7,10 +7,7 @@
 
 body{
     background-color: var(--bgColor);
-    align-items: center;
 }
-
-
 
 #userPhoto{
     width: 110px;
@@ -31,7 +28,6 @@ body{
     text-align: center;
     text-decoration: none;
 }
-
 
 #links{
     max-width: 675px;
