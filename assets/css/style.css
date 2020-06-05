@@ -1,70 +1,138 @@
 :root {
     --bgColor:#00012A;
-    --accentColor: #E6E6E6;
+    --accentColor: #FFFFFF;
+    --desabColor: #d4d4d4;
+    --bglinkColor: #E7E7E7;
+    --textColor1: #000000;
+    --textColor2: #9A9AA8;
     --font: 'Asap', sans-serif;
 }
 
 body{
     background-color: var(--bgColor);
     font-family: var(--font);
+    margin: 10px 10px 10px 10px;
 }
 
-#userPhoto{
-    width: 110px;
-    height: 110px;
-    display: block;
-    margin: 35px auto 20px;
-    border-radius: 50%;
+.container{
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto auto auto;
+    /* border: solid var(--accentColor) 2px; */
 }
 
-#nomeMonitoria{
+.header{
+    grid-column: 1 / -1;
+    align-items: center;
+    text-align: center;
+    /* border: solid yellow 2px; */
+}
+
+.content{
+    grid-column: 1 / -1;
+    align-items: center;
+    text-align: center;
+    /* border: solid red 2px; */
+}
+
+
+.block{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(100px,1fr));
+    grid-auto-rows: 100px;
+}
+
+.footer{
+    margin-top: 25px;
+    grid-column: 1 / -1;
+    align-items: center;
+    text-align: center;
+    /* border: solid white 5px; */
+}
+
+.madewith{
+    color: var(--textColor2);
+    font-size: .6rem;
+}
+
+.group{
     color: var(--accentColor);
     font-size: 1.3rem;
     font-weight: 600;
     line-height: 1.25;
     display: block;
     width: 100%;
-    text-align: center;
+    margin-bottom: 5px;
+}
+
+
+#userPhoto{
+    width: 110px;
+    height: 110px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#nomePage{
+    color: var(--accentColor);
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.25;
+    display: block;
+    width: 100%;
 }
 
 #userName{
-    color: #bbb;
+    color: var(--textColor2);
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
     display: block;
     width: 100%;
-    text-align: center;
     text-decoration: none;
-}
-
-.ifrn{
-    display: block;
-    width: 100%;
-    text-align: center;
 }
 
 #links{
     max-width: 675px;
     width: auto;
     display: block;
-    margin: 27px auto;
+    margin: 20px auto;
 }
+
 .link{
     display: block;
-    background-color: var(--accentColor);
+    background-color: var(--bglinkColor);
     color: var(--bgColor);
-    font-family: var(--font);
-    text-align: center;
-    margin-bottom: 20px;
-    padding: 17px;
+    padding: 2px;
+    margin: 5px 5px 5px 5px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 13px;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
-    border: solid var(--accentColor) 2px;
+    border: solid var(--bglinkColor) 2px;
+    border-radius: 6px;
+    /* box-shadow: 1px 1px 3px rgba(231, 231, 231, 0.2), -1px -1px 3px rgba(231, 231, 231, 0.25); */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
 }
+
 
 .link:hover{
     background-color: var(--bgColor);
-    color: var(--accentColor);
+    color: var(--bglinkColor);
 }
+
+.link-desabilitado{
+    display: block;
+    background-color: var(--desabColor);
+    color: var(--bgColor);
+    padding: 2px;
+    margin: 5px 5px 5px 5px;
+    text-decoration: none;
+    font-size: 13px;
+    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    border: solid var(--desabColor) 2px;
+    border-radius: 6px;
+    /* box-shadow: 1px 1px 3px rgba(231, 231, 231, 0.2), -1px -1px 3px rgba(231, 231, 231, 0.25); */
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
