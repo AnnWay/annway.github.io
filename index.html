@@ -28,6 +28,8 @@
     <link rel="manifest" href="assets/img/favicon/manifest.json" />
     <link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap"
         rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/fontawesome.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/js/solid.min.js" integrity="sha256-463Bbj3f5xs7WtQ9CuI+mg/256u2x0HD25yEiP3FsWQ=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/reset.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -47,32 +49,51 @@
 <body>
     <div class="container">
         <div class="header">
-            <img draggable="false" id="userPhoto" src="/assets/img/logo.png" alt="Logo da Monitoria AnnWay"
-                title="Logo da Monitoria AnnWay">
-            <a id="nomePage">Monitoria AnnWay</a>
-            <a href="https://www.instagram.com/monitoriaannway/" id="userName">@monitoriaannway</a>
+            <a href="https://www.instagram.com/monitoriaannway/"><img draggable="false" id="userPhoto" src="/assets/img/logo.png" alt="Logo da Monitoria AnnWay"
+                title="Logo da Monitoria AnnWay" ></a>
+            <a id="nomePage">Monitoria AnnWay </a>
+            <a id="userName">@monitoriaannway</a>
         </div>
         <div class="content">
             <div id="links" >
                 <div class="block">
                     <a class="link-desabilitado" href="#"><b>Curso de Matemática para Química</b> <br> <br>INSCRIÇÕES<br>15/06 E 16/06/2020</a>
-                <a class="link " href="https://drive.google.com/file/d/1mrHgsK0ExjFq5NXKPTtDeQ2-bkjjH22E/view?usp=sharing" target="_blank"><b>Curso de Matemática Fundamental</b> <br> <br> LISTA DE SELECIONADOS</a>
+                <a class="link " href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/lista_de_selecionados_curso_matematica_fundamental_30_05_2020.pdf"><b>Curso de Matemática Fundamental</b> <br> <br> LISTA DE SELECIONADOS</a>
                 <!-- <a class="link " href="#" target="_blank"><b>Curso de Matemática para Química</b> <br> <br>EM BREVE<br>01/01 ATÉ 10/10</a> -->
-                
+                <!-- <a class="link " href="#" target="_blank"><b>Curso de Matemática para Química</b> <br> <br>EM BREVE<br>01/01 ATÉ 10/10</a> -->
                 </div>
-                <h1 class="group">Materiais das Aulas</h1>
+                
+                <h1 class="group"> <i class="fas fa-chalkboard-teacher"></i> Materiais das Aulas</h1>
                 <div class="block">
-                <a class="link" href="https://drive.google.com/drive/folders/1cAbOsNQGj5icKAFM9bbnRG-HQz1Cu4F4?usp=sharing" target="_blank" ><b>Curso de Matemática Fundamental</b><br><br>Arquivos usados durante as aulas, acesse!</a>
+                <a class="link" href="#popupCmf"><b>Curso de Matemática Fundamental</b><br><br>Arquivos usados durante as aulas, acesse!</a>
                 <a class="link-desabilitado" href="#" ><b>Curso de Matemática para Química</b><br><br> EM BREVE</a>
                 <!-- <a class="link" href="#" ><b>Curso de Matemática para Gamers</b><br><br>Arquivos usados durante as aulas, acesse!</a> -->
                 </div>
-
                 <a class="link" href="https://www.instagram.com/p/CAlpFZvj3Yp/" target="_blank"><br><b>Sobre o projeto</b><br>.</a>
             </div>
         </div>
         <div class="footer">
                 <a href="https://portal.ifrn.edu.br/campus/natalcentral/noticias/projeto-de-extensao-do-campus-natal-central-oferece-ensino-da-matematica-durante-a-quarentena"><img draggable="false" src="/assets/img/direxIfrn.png" style="width: 200px;" /></a><br>
-                <h1 class="madewith">Feito por @math_jonatha</h1>
+                <h1 class="madewith">Feito com <a href="https://www.instagram.com/math_jonatha/" target="_blank"><i class="fas fa-heart"></i></a> e muito café</h1>
+        </div>
+    </div>
+
+    <!-- Popups Curso de Matemática Fundamental -->
+    <div id="popupCmf" class="overlay">
+        <div class="popup">
+            <h2>Escolha o Material</h2>
+            <a class="close" href="#">&times;</a>
+            <div class="content">
+                <!-- <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/aula05.pdf" target="_blank"><b>Nome</b> <i class="fab fa-google-drive"></i></a> -->
+                <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/aula04Equacoes.pdf" ><b>Equações</b> <i class="fas fa-file-pdf"></i></a>
+                <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/aula03RegraDeTres.pdf" ><b>Regra de Três</b> <i class="fas fa-file-pdf"></i></a>
+                <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/aula02NumerosRacionais.pdf" ><b>Números Racionais</b> <i class="fas fa-file-pdf"></i></a>
+                <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/aula01Conjuntos.pdf" ><b>Conjuntos</b> <i class="fas fa-file-pdf"></i></a>
+                <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/gabaritoGeral.pdf"><b>Gabarito Geral</b> <i class="fas fa-file-pdf"></i></a>
+                <a class="link-popup" href="https://drive.google.com/drive/folders/1cAbOsNQGj5icKAFM9bbnRG-HQz1Cu4F4?usp=sharing" target="_blank"><b>Acessar todas as listas</b> <i class="fab fa-google-drive"></i></a>
+                <!-- <a class="link-popup" href="https://raw.githubusercontent.com/AnnWay/annway.github.io/master/assets/doc/material/cmf/nomeDoArquivo.pdf" target="_blank"><b>Nome</b> <i class="fab fa-google-drive"></i></a> -->
+                <a class="aviso"><b>Atenção:</b> caso não tenha link direto para lista, clique em acessar todas as listas.</a>
+            </div>
         </div>
     </div>
 </body>
