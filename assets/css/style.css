@@ -51,7 +51,16 @@ body{
     /* border: solid white 5px; */
 }
 
+.footer img{
+   width: 200px;
+}
+
 .madewith{
+    color: var(--textColor2);
+    font-size: .6rem;
+}
+
+.madewith a{
     color: var(--textColor2);
     font-size: .6rem;
 }
@@ -163,7 +172,7 @@ body{
     left: 0;
     right: 0;
     /* background: rgba(0, 0, 0, 0.9); */
-    background: rgba(0, 1, 42, 0.8) ;
+    background: rgba(0, 1, 42, 0.85) ;
     transition: opacity 1000ms;
     visibility: hidden;
     opacity: 0;
@@ -222,7 +231,3 @@ body{
       font-size: small;
   }
 
-
-  .block{
-      
-  }
