@@ -171,14 +171,16 @@ body{
     bottom: 0;
     left: 0;
     right: 0;
-    /* background: rgba(0, 0, 0, 0.9); */
     background: rgba(0, 1, 42, 0.85) ;
-    transition: opacity 1000ms;
+    transition: 800ms ease-in-out;
     visibility: hidden;
+    pointer-events: none;
     opacity: 0;
   }
+ 
   .overlay:target {
     visibility: visible;
+    pointer-events: all;
     opacity: 1;
   }
   
@@ -202,7 +204,6 @@ body{
     position: absolute;
     top: .5px;
     right: 10px;
-    /* transition: all 1000ms; */
     transition: all 1s ease-in-out;
     font-size: 30px;
     font-weight: bold;

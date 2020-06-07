@@ -6,8 +6,9 @@
 }
 
 body {
-  background-color: #313942;
-  font-family: 'Montserrat', sans-serif;
+/* background-color: #313942; */
+  background-color: #00012A;
+  font-family: 'Asap','Montserrat', sans-serif;
 }
 
 main {
@@ -25,7 +26,8 @@ main {
 }
 
 h1 {
-  color: #e7ebf2;
+ /* color: #e7ebf2;  */
+  color: #E7E7E7;
   font-size: 12.5rem;
   letter-spacing: .10em;
   margin: .025em 0;
@@ -50,7 +52,7 @@ h2 {
 }
 
 p {
-  color: #ccc;
+  color: #9A9AA8;
   margin-top: 0;
 }
 
