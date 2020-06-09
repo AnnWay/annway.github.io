@@ -13,7 +13,7 @@ main {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
           flex-direction: column;
-  height: 100vh;
+  height: 90vh;
   -webkit-box-pack: center;
           justify-content: center;
   text-align: center;
