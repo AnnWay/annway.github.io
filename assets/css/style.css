@@ -77,8 +77,8 @@ body{
 
 
 #userPhoto{
-    width: 110px;
-    height: 110px;
+    width: 120px;
+    height: 120px;
     margin-top: 15px;
     margin-bottom: 10px;
     border: solid var(--accentColor) 2px;
@@ -92,6 +92,7 @@ body{
     line-height: 1.25;
     display: block;
     width: 100%;
+    font-family: sans-serif;
 }
 
 #userName{
