@@ -81,6 +81,8 @@ body{
     height: 110px;
     margin-top: 15px;
     margin-bottom: 10px;
+    border: solid var(--accentColor) 2px;
+    border-radius: 50%;
 }
 
 #nomePage{
@@ -200,6 +202,7 @@ body{
     margin-top: 0;
     color: var(--textColor1);
   }
+
   .popup .close {
     position: absolute;
     top: .5px;
@@ -226,7 +229,6 @@ body{
       width: 70%;
     }
   }
-
 
   .aviso{
       font-size: small;
