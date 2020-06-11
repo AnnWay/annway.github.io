@@ -11,7 +11,8 @@
 body {
   background-color: var(--bgColor);
   font-family: var(--font);
-  margin: 10px 10px 10px 10px;
+  -webkit-font-smoothing: antialiased;
+  margin: 10px;
 }
 
 .container {
@@ -19,21 +20,18 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto auto auto;
-  /* border: solid var(--accentColor) 2px; */
 }
 
 .header {
   grid-column: 1 / -1;
   align-items: center;
   text-align: center;
-  /* border: solid yellow 2px; */
 }
 
 .content {
   grid-column: 1 / -1;
   align-items: center;
   text-align: center;
-  /* border: solid red 2px; */
 }
 
 .block {
@@ -47,7 +45,6 @@ body {
   grid-column: 1 / -1;
   align-items: center;
   text-align: center;
-  /* border: solid white 5px; */
 }
 
 .footer img {
