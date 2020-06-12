@@ -78,13 +78,13 @@ body {
   margin-bottom: 10px;
   border: solid var(--accentColor) 2px;
   border-radius: 50%;
-  animation: preencher 0.5s ease forwards 5s;
+  animation: preencher 0.5s ease forwards 6s;
 }
 
 #logoAnimacao path:nth-child(1) {
   stroke-dasharray: 985px;
   stroke-dashoffset: 985px;
-  animation: animacao 5s ease forwards;
+  animation: animacao 6s ease forwards;
 }
 
 @keyframes animacao {
@@ -122,7 +122,7 @@ body {
 }
 
 #links {
-  max-width: 675px;
+  max-width: 600px;
   width: auto;
   display: block;
   margin: 20px auto;
@@ -145,6 +145,7 @@ body {
 .link:hover {
   background-color: var(--bgColor);
   color: var(--bglinkColor);
+  transition: transform 0.3s ease-in-out;
   transform: scale(1.03);
 }
 
@@ -179,6 +180,7 @@ body {
 
 .link-popup:hover {
   background-color: var(--bgColor);
+  transition: background-color 0.4s ease-in-out;
   color: var(--bglinkColor);
   transform: scale(1.01);
 }
