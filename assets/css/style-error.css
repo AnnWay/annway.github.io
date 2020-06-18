@@ -8,6 +8,15 @@
   --font: "Asap", sans-serif;
 }
 
+html {
+  font-size: calc(18px + ((100vw - 1025px) * (22 - 18) / (1920 - 1024)));
+  }
+
+  h1 {
+    font-size: calc(1rem * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1); }
+h2 {
+        font-size: calc(1rem * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1); }
+
 body {
 /* background-color: #313942; */
   background-color: var(--bgColor);
@@ -32,7 +41,6 @@ main {
 }
 
 h1 {
- /* color: #e7ebf2;  */
   color: var(--bglinkColor);
   font-size: 12.5rem;
   letter-spacing: .10em;
@@ -88,7 +96,7 @@ p {
   display: block;
   background-color: var(--bglinkColor);
   color: var(--bgColor);
-  padding: 5px;
+  padding: 10px;
   margin: 50px;
   text-decoration: none;
   font-size: 13px;
