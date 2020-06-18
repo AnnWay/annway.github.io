@@ -41,7 +41,7 @@ body {
 }
 
 .footer {
-  margin-top: 25px;
+  /* margin-top: 25px; */
   grid-column: 1 / -1;
   align-items: center;
   text-align: center;
