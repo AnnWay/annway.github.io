@@ -9,17 +9,22 @@
 }
 
 body {
-  background-color: var(--bgColor);
   font-family: var(--font);
-  -webkit-font-smoothing: antialiased;
+  
   margin: 10px;
+  box-sizing: border-box;
+  
+  background-color: var(--bgColor);
+  
+  -webkit-font-smoothing: antialiased;
 }
 
 .container {
-  height: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto auto auto;
+  grid-template-columns: repeat(2, 1fr);
+  
+  height: 100%;
 }
 
 .header {
@@ -41,9 +46,9 @@ body {
 }
 
 .footer {
-  /* margin-top: 25px; */
   grid-column: 1 / -1;
   align-items: center;
+
   text-align: center;
 }
 
@@ -62,13 +67,15 @@ body {
 }
 
 .group {
-  color: var(--accentColor);
+  display: block;
+  
   font-size: 1.3rem;
   font-weight: 600;
   line-height: 1.25;
-  display: block;
   width: 100%;
   margin-bottom: 5px;
+  
+  color: var(--accentColor);
 }
 
 .userPhoto {
@@ -76,8 +83,10 @@ body {
   height: 120px;
   margin-top: 15px;
   margin-bottom: 10px;
+  
   border: solid var(--accentColor) 2px;
   border-radius: 50%;
+
   animation: preencher 0.5s ease forwards 6s;
 }
 
@@ -103,22 +112,24 @@ body {
 }
 
 #nomePage {
-  color: var(--accentColor);
+  display: block;
+
   font-size: 1.3rem;
   font-weight: 600;
   line-height: 1.25;
-  display: block;
   width: 100%;
+  
+  color: var(--accentColor);
 }
 
 #userName {
-  color: var(--textColor2);
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.25;
-  display: block;
   width: 100%;
   text-decoration: none;
+  
+  color: var(--textColor2);
 }
 
 #links {
@@ -130,73 +141,122 @@ body {
 
 .link {
   display: block;
-  background-color: var(--bglinkColor);
-  color: var(--bgColor);
-  padding: 2px;
-  margin: 5px 5px 5px 5px;
-  text-decoration: none;
+  
   font-size: 13px;
-  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+  text-decoration: none;
+  
+  margin: 5px;
+  padding: 5px 3px;
+  
+  color: var(--bgColor);
+  background-color: var(--bglinkColor);
   border: solid var(--bglinkColor) 2px;
   border-radius: 6px;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+  
+  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
 }
 
 .link:hover {
-  background-color: var(--bgColor);
   color: var(--bglinkColor);
+  background-color: var(--bgColor);
+  
   transition: transform 0.3s ease-in-out;
   transform: scale(1.03);
 }
 
 .link-desabilitado {
   display: block;
-  background-color: var(--desabColor);
-  color: var(--bgColor);
-  padding: 2px;
-  margin: 5px 5px 5px 5px;
-  text-decoration: none;
+  
   font-size: 13px;
-  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+  text-decoration: none;
+  
+  padding: 2px;
+  margin: 5px;
+
+  color: var(--bgColor);
+  background-color: var(--desabColor);
   border: solid var(--desabColor) 2px;
   border-radius: 6px;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+  
+  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
 }
 
 
 .link-popup {
   display: block;
-  background-color: var(--bglinkColor);
-  color: var(--bgColor);
-  padding: 15px;
-  align-items: center;
-  margin: 5px 5px 5px 5px;
+  
   text-decoration: none;
   font-size: 13px;
-  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+  
+  align-items: center;
+  margin: 5px 5px 5px 5px;
+  padding: 15px;
+  
+  color: var(--bgColor);
+  background-color: var(--bglinkColor);
   border: solid var(--bglinkColor) 2px;
   border-radius: 6px;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  
+  transition: all 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
 }
 
 .link-popup:hover {
-  background-color: var(--bgColor);
-  transition: background-color 0.4s ease-in-out;
   color: var(--bglinkColor);
+  background-color: var(--bgColor);
+  
+  transition: background-color 0.4s ease-in-out;
   transform: scale(1.01);
 }
 
+.link-zoom{
+  display: block;
+
+  text-decoration: none;
+  font-size: 15px;
+  
+  padding: 28px 2px;
+  margin: 5px;
+  
+  color: var(--bgColor);
+  background-color: var(--bglinkColor);
+  border: solid var(--bglinkColor) 2px;
+  border-radius: 6px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+  
+  transition: all 0.8s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+}
+
+.link-zoom:hover{
+
+  font-size: 15px;
+
+  padding: 20px 2px;
+
+  color: var(--bglinkColor);
+  background-color: var(--bgColor);
+  
+  transition: all 0.8s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+}
+
+
 .overlay {
   position: fixed;
+
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 1, 42, 0.85);
-  transition: 800ms ease-in-out;
-  visibility: hidden;
+  
   pointer-events: none;
+  
+  background: rgba(0, 1, 42, 0.85);
+  
   opacity: 0;
+  visibility: hidden;
+  transition: 800ms ease-in-out;
 }
 
 .overlay:target {
@@ -240,15 +300,30 @@ body {
   overflow: auto;
 }
 
-@media screen and (max-width: 700px) {
-  .box {
-    width: 70%;
-  }
-  .popup {
-    width: 70%;
-  }
-}
-
 .aviso {
   font-size: small;
 }
+
+
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .popup {
+      width: 80%;
+    }
+    .link-zoom{
+      font-size: small;
+      padding: 15px 2px;
+      margin: 5px;
+    
+    }
+  }
+
