@@ -168,10 +168,10 @@ body {
 .link-desabilitado {
   display: block;
   
-  font-size: 13px;
   text-decoration: none;
+  font-size: 15px;
   
-  padding: 2px;
+  padding: 28px 2px;
   margin: 5px;
 
   color: var(--bgColor);
@@ -324,6 +324,18 @@ body {
       padding: 15px 2px;
       margin: 5px;
     
+    }
+    .link-zoom:hover{
+      font-size: small;
+      padding: 15px 2px;
+      transition: none;
+      color: var(--bgColor);
+      background-color: var(--bglinkColor);
+    }
+    .link-desabilitado{
+      font-size: small;
+      padding: 15px 2px;
+      margin: 5px;
     }
   }
 
