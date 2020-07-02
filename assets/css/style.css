@@ -45,6 +45,10 @@ body {
   grid-auto-rows: 100px;
 }
 
+.block a{
+  text-transform: lowercase;
+}
+
 .footer {
   grid-column: 1 / -1;
   align-items: center;
@@ -169,7 +173,7 @@ body {
   display: block;
   
   text-decoration: none;
-  font-size: 15px;
+  font-size: 16px;
   
   padding: 28px 2px;
   margin: 5px;
@@ -215,7 +219,7 @@ body {
   display: block;
 
   text-decoration: none;
-  font-size: 15px;
+  font-size: 16px;
   
   padding: 28px 2px;
   margin: 5px;
@@ -231,7 +235,7 @@ body {
 
 .link-zoom:hover{
 
-  font-size: 15px;
+  font-size: 16px;
 
   padding: 20px 2px;
 
