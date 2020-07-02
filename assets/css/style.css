@@ -319,27 +319,65 @@ body {
   user-select: none;
   }
   
-  @media screen and (max-width: 700px) {
-    .popup {
+@media screen and (max-width: 600px){
+.popup{
       width: 80%;
-    }
-    .link-zoom{
+}
+
+.link-zoom{
       font-size: small;
       padding: 15px 2px;
       margin: 5px;
     
-    }
-    .link-zoom:hover{
+}
+
+.link-zoom:hover{
       font-size: small;
       padding: 15px 2px;
       transition: none;
       color: var(--bgColor);
       background-color: var(--bglinkColor);
-    }
-    .link-desabilitado{
+}
+
+.link-desabilitado{
       font-size: small;
       padding: 15px 2px;
       margin: 5px;
+}
+}
+
+@media screen and (max-width: 640px){
+.popup {
+      width: 80%;
     }
-  }
+.link-zoom{
+      font-size: small;
+      padding: 15px 2px;
+      margin: 5px;
+    
+}
+
+.selecionados a{
+      font-size: small;
+      padding: 30px 2px;
+      margin: 5px;
+    
+}
+
+.link-zoom:hover{
+      font-size: small;
+      padding: 15px 2px;
+      transition: none;
+      color: var(--bgColor);
+      background-color: var(--bglinkColor);
+}
+
+.link-desabilitado{
+      font-size: small;
+      padding: 15px 2px;
+      margin: 5px;
+}
+
+}
+
 
