@@ -1,6 +1,5 @@
 <template>
   <div>
-   <Logo />
     <p>O objetivo desta página é auxiliar estudantes da Educação Básica, em especial, os que irão participar do #ENEM2020 e/ou querem melhorar sua aprendizagem em Matemática.</p>
     <p> Coordenado pela professora Enne Karol, contando ainda com a colaboração dos professores orientadores Francisco Medeiros, do Campus Natal - Central, e Adriana Lima, do Centro Universitário de Salvador (UNICEUSA). O projeto conta com três linhas de atuação, que são: 
       <ul>
@@ -21,12 +20,11 @@
 </template>
 
 <script>
-import Logo from "../components/Logo";
 
 export default {
   name: "Sobre",
   components:{
-    Logo
+
   }
 };
 </script>

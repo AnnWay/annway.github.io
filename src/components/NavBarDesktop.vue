@@ -1,5 +1,5 @@
 <template>
-  <div class="navBarMobile">
+  <div class="navBarDesktop">
     <router-link to="/"
       ><i class="fas fa-home text-decoration-none"><br />Início</i></router-link
     >
@@ -17,39 +17,27 @@
 
 <script>
 export default {
-  name: "Menu"
-};
+  name: "NavBarDesktop"
+}
 </script>
 
 <style scoped>
-div {
-  position: fixed;
-  bottom: 0;
-  height: 4em;
-  width: 100%;
+.navBarDesktop {
+  margin-right: 5%;
   color: var(--bglinkColor);
   background-color: var(--bgColor);
-  box-shadow: 0px -10px 10px rgba(0, 0, 0, 0.5);
 }
 
-i {
-  margin-top: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+.navBarDesktop i {
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
   font-size: 1em;
 }
 
-.router-link-exact-active{
-  color: var(--bglinkColor);
-}
-
-.router-link-active{
-  /* color: aliceblue; */
-}
-
-@media screen and (min-width: 1200px) {
-  .navBarMobile {
-    display: none;
+@media screen and (max-width: 600px) {
+  .navBarDesktop {
+	  display: none;
   }
 }
 </style>

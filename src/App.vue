@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <NavBarDesktop />
+    <Logo />
+    <div class="container"></div>
     <router-view></router-view>
     <Menu />
   </div>
@@ -7,11 +10,15 @@
 
 <script>
 import Menu from "./components/Menu";
+import Logo from "./components/Logo";
+import NavBarDesktop from "./components/NavBarDesktop";
 
 export default {
   name: "App",
   components: {
-    Menu
+    Menu,
+    Logo,
+    NavBarDesktop
   }
 };
 </script>
@@ -33,6 +40,7 @@ body {
   margin-bottom: 25%;
   font-family: var(--font);
   color: var(--accentColor);
+  box-sizing: border-box;
 }
 
 #app {
@@ -48,7 +56,29 @@ body {
   text-align: center;
 }
 
-.header{
-  margin-bottom: 35px;
+.container {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: repeat(2, 1fr);
+  height: 100%;
 }
+.header {
+  grid-column: 1 / -1;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.content {
+  grid-column: 1 / -1;
+  align-items: center;
+  text-align: center;
+}
+
+.block {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(100px, 1fr));
+  grid-auto-rows: 100px;
+}
+
 </style>

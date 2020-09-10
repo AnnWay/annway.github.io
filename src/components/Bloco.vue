@@ -1,5 +1,5 @@
 <template>
-  <div>BLOCO</div>
+  <div class="link-zoom">BLOCO</div>
 </template>
 
 <script>
@@ -9,7 +9,7 @@ export default {
 </script>
 
 <style scoped>
-div {
+.link-zoom {
   display: block;
 
   text-decoration: none;
@@ -29,9 +29,10 @@ div {
   margin-left: 5%;
   margin-right: 5%;
   align-content: center;
+
 }
 
-div:hover {
+.link-zoom:hover {
   font-size: 16px;
 
   padding: 28px 2px;
@@ -40,5 +41,38 @@ div:hover {
   background-color: var(--bgColor);
 
   transition: all 0.8s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+}
+
+
+@media screen and (max-width: 600px) {
+  .link-zoom {
+    font-size: small;
+    padding: 15px 2px;
+    margin: 5px;
+  }
+
+  .link-zoom:hover {
+    font-size: small;
+    padding: 15px 2px;
+    transition: none;
+    color: var(--bgColor);
+    background-color: var(--bglinkColor);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .link-zoom {
+    font-size: small;
+    padding: 15px 2px;
+    margin: 5px;
+  }
+
+  .link-zoom:hover {
+    font-size: small;
+    padding: 15px 2px;
+    transition: none;
+    color: var(--bgColor);
+    background-color: var(--bglinkColor);
+  }
 }
 </style>
