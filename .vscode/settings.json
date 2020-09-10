@@ -1,0 +1,20 @@
+{
+  "git.enabled": false,
+  "files.exclude": {
+    "node_modules": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".nowignore": true,
+    "babel.config.js": true,
+    "README.md": true,
+    "yarn.lock": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "public": false,
+    "LICENSE": true,
+    ".editorconfig" : true,
+    "vue.config.js" : true,
+    "deploy.sh": true,
+    "deploy in github pages.txt": true
+  }
+}

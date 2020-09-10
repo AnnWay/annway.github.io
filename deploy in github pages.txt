@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=6Xq0ALFs6Jw
+https://cli.vuejs.org/guide/deployment.html#github-pages
+https://github.com/jjmax75/vue-gh-pages
