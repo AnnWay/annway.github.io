@@ -1,0 +1,1846 @@
+// 20200901140957
+// https://trello.com/b/LlUPqK5s.json
+
+{
+	"id": "5f4e7a781538434c71f7f420",
+	"name": "BancoDeDados",
+	"desc": "",
+	"descData": null,
+	"closed": false,
+	"idOrganization": null,
+	"shortLink": "LlUPqK5s",
+	"powerUps": [
+	  
+	],
+	"dateLastActivity": "2020-09-01T16:59:36.619Z",
+	"idTags": [
+	  
+	],
+	"datePluginDisable": null,
+	"creationMethod": "automatic",
+	"idBoardSource": null,
+	"idEnterprise": null,
+	"pinned": false,
+	"starred": false,
+	"url": "https://trello.com/b/LlUPqK5s/bancodedados",
+	"prefs": {
+	  "permissionLevel": "public",
+	  "hideVotes": false,
+	  "voting": "disabled",
+	  "comments": "members",
+	  "invitations": "members",
+	  "selfJoin": false,
+	  "cardCovers": true,
+	  "isTemplate": false,
+	  "cardAging": "regular",
+	  "calendarFeedEnabled": false,
+	  "background": "green",
+	  "backgroundImage": null,
+	  "backgroundImageScaled": null,
+	  "backgroundTile": false,
+	  "backgroundBrightness": "dark",
+	  "backgroundColor": "#519839",
+	  "backgroundBottomColor": "#519839",
+	  "backgroundTopColor": "#519839",
+	  "canBePublic": true,
+	  "canBeEnterprise": true,
+	  "canBeOrg": true,
+	  "canBePrivate": true,
+	  "canInvite": true
+	},
+	"shortUrl": "https://trello.com/b/LlUPqK5s",
+	"enterpriseOwned": false,
+	"premiumFeatures": [
+	  
+	],
+	"ixUpdate": "92",
+	"limits": {
+	  "attachments": {
+		"perBoard": {
+		  "status": "ok",
+		  "disableAt": 36000,
+		  "warnAt": 32400
+		},
+		"perCard": {
+		  "status": "ok",
+		  "disableAt": 1000,
+		  "warnAt": 900
+		}
+	  },
+	  "boards": {
+		"totalMembersPerBoard": {
+		  "status": "ok",
+		  "disableAt": 1600,
+		  "warnAt": 1440
+		}
+	  },
+	  "cards": {
+		"openPerBoard": {
+		  "status": "ok",
+		  "disableAt": 5000,
+		  "warnAt": 4500
+		},
+		"openPerList": {
+		  "status": "ok",
+		  "disableAt": 5000,
+		  "warnAt": 4500
+		},
+		"totalPerBoard": {
+		  "status": "ok",
+		  "disableAt": 2000000,
+		  "warnAt": 1800000
+		},
+		"totalPerList": {
+		  "status": "ok",
+		  "disableAt": 1000000,
+		  "warnAt": 900000
+		}
+	  },
+	  "checklists": {
+		"perBoard": {
+		  "status": "ok",
+		  "disableAt": 2000000,
+		  "warnAt": 1800000
+		},
+		"perCard": {
+		  "status": "ok",
+		  "disableAt": 500,
+		  "warnAt": 450
+		}
+	  },
+	  "checkItems": {
+		"perChecklist": {
+		  "status": "ok",
+		  "disableAt": 200,
+		  "warnAt": 180
+		}
+	  },
+	  "customFields": {
+		"perBoard": {
+		  "status": "ok",
+		  "disableAt": 50,
+		  "warnAt": 45
+		}
+	  },
+	  "customFieldOptions": {
+		"perField": {
+		  "status": "ok",
+		  "disableAt": 50,
+		  "warnAt": 45
+		}
+	  },
+	  "labels": {
+		"perBoard": {
+		  "status": "ok",
+		  "disableAt": 1000,
+		  "warnAt": 900
+		}
+	  },
+	  "lists": {
+		"openPerBoard": {
+		  "status": "ok",
+		  "disableAt": 500,
+		  "warnAt": 450
+		},
+		"totalPerBoard": {
+		  "status": "ok",
+		  "disableAt": 3000,
+		  "warnAt": 2700
+		}
+	  },
+	  "stickers": {
+		"perCard": {
+		  "status": "ok",
+		  "disableAt": 70,
+		  "warnAt": 63
+		}
+	  },
+	  "reactions": {
+		"perAction": {
+		  "status": "ok",
+		  "disableAt": 1000,
+		  "warnAt": 900
+		},
+		"uniquePerAction": {
+		  "status": "ok",
+		  "disableAt": 17,
+		  "warnAt": 16
+		}
+	  }
+	},
+	"subscribed": false,
+	"templateGallery": null,
+	"dateLastView": "2020-09-01T17:09:53.415Z",
+	"labelNames": {
+	  "green": "",
+	  "yellow": "link",
+	  "orange": "",
+	  "red": "postar",
+	  "purple": "arquivo",
+	  "blue": "",
+	  "sky": "",
+	  "lime": "",
+	  "pink": "",
+	  "black": ""
+	},
+	"actions": [
+	  {
+		"id": "5f4e7df8113d3a4c016ae8d0",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"name": "VIdeo Youtube"
+		  },
+		  "card": {
+			"name": "Vídeo Youtube - titulo",
+			"id": "5f4e7d955bd7b46f47a880aa",
+			"idShort": 5,
+			"shortLink": "EYDR2aAL"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f423",
+			"name": "Links"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:59:36.631Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7de60fd5d9788ffd9268",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "attachment": {
+			"id": "5f4e7de60fd5d9788ffd9267",
+			"name": "video-link",
+			"url": "https://www.youtube.com/watch?v=uX3QieANqxc"
+		  },
+		  "card": {
+			"id": "5f4e7d955bd7b46f47a880aa",
+			"name": "VIdeo Youtube",
+			"idShort": 5,
+			"shortLink": "EYDR2aAL"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f423",
+			"name": "Links"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "addAttachmentToCard",
+		"date": "2020-09-01T16:59:18.839Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7dc0f60c3c64988c17be",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"desc": ""
+		  },
+		  "card": {
+			"desc": "Link que abre um video no youtube",
+			"id": "5f4e7d955bd7b46f47a880aa",
+			"name": "VIdeo Youtube",
+			"idShort": 5,
+			"shortLink": "EYDR2aAL"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f423",
+			"name": "Links"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:58:40.772Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7d9ef8615e0b4e18b0c1",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7d9ef8615e0b4e18b0c0",
+			"name": "Video Facebook",
+			"idShort": 6,
+			"shortLink": "YwBpanxB"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f423",
+			"name": "Links"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:58:06.139Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7d955bd7b46f47a880ab",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7d955bd7b46f47a880aa",
+			"name": "VIdeo Youtube",
+			"idShort": 5,
+			"shortLink": "EYDR2aAL"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f423",
+			"name": "Links"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:57:57.292Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7d56a0bcbe8051bb5826",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "attachment": {
+			"id": "5f4e7d56a0bcbe8051bb5822",
+			"name": "aula23Estatistica.pdf",
+			"url": "https://trello-attachments.s3.amazonaws.com/5f4e7a781538434c71f7f420/5f4e7bdefde342790ac28b0c/015559c39f04982d0cfd00f1d663c4c0/aula23Estatistica.pdf"
+		  },
+		  "card": {
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica - este é o nome do arquivo",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "addAttachmentToCard",
+		"date": "2020-09-01T16:56:54.606Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7d4526924636bdab0f61",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "attachment": {
+			"name": "produtosNotaveis.pdf",
+			"id": "5f4e7d2be3f975646c6fbb87"
+		  },
+		  "card": {
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica - este é o nome do arquivo",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "deleteAttachmentFromCard",
+		"date": "2020-09-01T16:56:37.296Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7d2be3f975646c6fbb88",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "attachment": {
+			"name": "produtosNotaveis.pdf",
+			"id": "5f4e7d2be3f975646c6fbb87"
+		  },
+		  "card": {
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica - este é o nome do arquivo",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "addAttachmentToCard",
+		"date": "2020-09-01T16:56:11.406Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7cc5d14b7582ec00eb40",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"name": "Estatistica"
+		  },
+		  "card": {
+			"name": "Estatistica - este é o nome do arquivo",
+			"id": "5f4e7bdefde342790ac28b0c",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:54:29.241Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7cbb46da73432bb60070",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"desc": ""
+		  },
+		  "card": {
+			"desc": "Essa é a tag de descrição",
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:54:19.370Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7c2954c2653cd9deba34",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"desc": "hhh"
+		  },
+		  "card": {
+			"desc": "",
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:51:53.240Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7c24534b9170c0c97599",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"desc": ""
+		  },
+		  "card": {
+			"desc": "hhh",
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  }
+		},
+		"type": "updateCard",
+		"date": "2020-09-01T16:51:48.643Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bfd6cbb1a377942114f",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7bfd6cbb1a377942114a",
+			"name": "Probabilidade",
+			"idShort": 4,
+			"shortLink": "27tKK8gW"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:51:09.950Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bf0ec4cec479a931765",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7bf0ec4cec479a931764",
+			"name": "Funções afim",
+			"idShort": 3,
+			"shortLink": "2PgnesWQ"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:50:56.894Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7be60b63aa1b5eee944b",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7be60b63aa1b5eee944a",
+			"name": "Geometria Plana",
+			"idShort": 2,
+			"shortLink": "mC9cYsak"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:50:46.530Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bdefde342790ac28b0d",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "card": {
+			"id": "5f4e7bdefde342790ac28b0c",
+			"name": "Estatistica",
+			"idShort": 1,
+			"shortLink": "mdqcmKKs"
+		  },
+		  "list": {
+			"id": "5f4e7a781538434c71f7f421",
+			"name": "Matemática pra o ENEM"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createCard",
+		"date": "2020-09-01T16:50:38.608Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bd5cd16f385203c57b8",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"name": "Done"
+		  },
+		  "list": {
+			"name": "Links",
+			"id": "5f4e7a781538434c71f7f423"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "updateList",
+		"date": "2020-09-01T16:50:29.950Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bce981c6015a343b581",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"name": "Doing"
+		  },
+		  "list": {
+			"name": "Matemática Básica",
+			"id": "5f4e7a781538434c71f7f422"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "updateList",
+		"date": "2020-09-01T16:50:22.237Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7bc289ce2559b64c8362",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "old": {
+			"name": "To Do"
+		  },
+		  "list": {
+			"name": "Matemática pra o ENEM",
+			"id": "5f4e7a781538434c71f7f421"
+		  },
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "updateList",
+		"date": "2020-09-01T16:50:10.268Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  },
+	  {
+		"id": "5f4e7a781538434c71f7f425",
+		"idMemberCreator": "5ef97cd9ee05834c1b80ed5e",
+		"data": {
+		  "creationMethod": "automatic",
+		  "board": {
+			"id": "5f4e7a781538434c71f7f420",
+			"name": "BancoDeDados",
+			"shortLink": "LlUPqK5s"
+		  }
+		},
+		"type": "createBoard",
+		"date": "2020-09-01T16:44:40.418Z",
+		"limits": {
+		  
+		},
+		"memberCreator": {
+		  "id": "5ef97cd9ee05834c1b80ed5e",
+		  "username": "matheusjonatha",
+		  "activityBlocked": false,
+		  "avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		  "avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		  "fullName": "Matheus Jonatha",
+		  "idMemberReferrer": null,
+		  "initials": "MJ",
+		  "nonPublic": {
+			
+		  },
+		  "nonPublicAvailable": false
+		}
+	  }
+	],
+	"cards": [
+	  {
+		"id": "5f4e7bdefde342790ac28b0c",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:56:54.608Z",
+		"desc": "Essa é a tag de descrição",
+		"descData": {
+		  "emoji": {
+			
+		  }
+		},
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  "5f4e7a78cdabcf46c051d6de",
+		  "5f4e7a78cdabcf46c051d6e2"
+		],
+		"idList": "5f4e7a781538434c71f7f421",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 1,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Estatistica - este é o nome do arquivo",
+		"pos": 65535,
+		"shortLink": "mdqcmKKs",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 1,
+		  "description": true,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy58qmbp5uahm4oefg+0qtom3m5ba@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  {
+			"id": "5f4e7a78cdabcf46c051d6de",
+			"idBoard": "5f4e7a781538434c71f7f420",
+			"name": "arquivo",
+			"color": "purple"
+		  },
+		  {
+			"id": "5f4e7a78cdabcf46c051d6e2",
+			"idBoard": "5f4e7a781538434c71f7f420",
+			"name": "postar",
+			"color": "red"
+		  }
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/mdqcmKKs",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/mdqcmKKs/1-estatistica-este-%C3%A9-o-nome-do-arquivo",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  {
+			"bytes": 2931995,
+			"date": "2020-09-01T16:56:54.345Z",
+			"edgeColor": null,
+			"idMember": "5ef97cd9ee05834c1b80ed5e",
+			"isUpload": true,
+			"mimeType": "application/pdf",
+			"name": "aula23Estatistica.pdf",
+			"previews": [
+			  
+			],
+			"url": "https://trello-attachments.s3.amazonaws.com/5f4e7a781538434c71f7f420/5f4e7bdefde342790ac28b0c/015559c39f04982d0cfd00f1d663c4c0/aula23Estatistica.pdf",
+			"pos": 16384,
+			"fileName": "aula23Estatistica.pdf",
+			"id": "5f4e7d56a0bcbe8051bb5822"
+		  }
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  },
+	  {
+		"id": "5f4e7be60b63aa1b5eee944a",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:50:46.494Z",
+		"desc": "",
+		"descData": null,
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  
+		],
+		"idList": "5f4e7a781538434c71f7f421",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 2,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Geometria Plana",
+		"pos": 131071,
+		"shortLink": "mC9cYsak",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 0,
+		  "description": false,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy58rds4ziqme7eiiy+2ggk5k4038@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/mC9cYsak",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/mC9cYsak/2-geometria-plana",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  },
+	  {
+		"id": "5f4e7bf0ec4cec479a931764",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:50:56.856Z",
+		"desc": "",
+		"descData": null,
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  
+		],
+		"idList": "5f4e7a781538434c71f7f421",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 3,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Funções afim",
+		"pos": 196607,
+		"shortLink": "2PgnesWQ",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 0,
+		  "description": false,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy58sk4rk271tc8n6s+0ctdotzhy6@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/2PgnesWQ",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/2PgnesWQ/3-fun%C3%A7%C3%B5es-afim",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  },
+	  {
+		"id": "5f4e7bfd6cbb1a377942114a",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:51:09.900Z",
+		"desc": "",
+		"descData": null,
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  
+		],
+		"idList": "5f4e7a781538434c71f7f421",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 4,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Probabilidade",
+		"pos": 262143,
+		"shortLink": "27tKK8gW",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 0,
+		  "description": false,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy58twsves62872oui+00nm33er1r@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/27tKK8gW",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/27tKK8gW/4-probabilidade",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  },
+	  {
+		"id": "5f4e7d955bd7b46f47a880aa",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:59:36.619Z",
+		"desc": "Link que abre um video no youtube",
+		"descData": {
+		  "emoji": {
+			
+		  }
+		},
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  "5f4e7a78cdabcf46c051d6e2",
+		  "5f4e7a78cdabcf46c051d6e1"
+		],
+		"idList": "5f4e7a781538434c71f7f423",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 5,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Vídeo Youtube - titulo",
+		"pos": 65535,
+		"shortLink": "EYDR2aAL",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 1,
+		  "description": true,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy5a20wpk34mf5oeju+0maxalya3w@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  {
+			"id": "5f4e7a78cdabcf46c051d6e2",
+			"idBoard": "5f4e7a781538434c71f7f420",
+			"name": "postar",
+			"color": "red"
+		  },
+		  {
+			"id": "5f4e7a78cdabcf46c051d6e1",
+			"idBoard": "5f4e7a781538434c71f7f420",
+			"name": "link",
+			"color": "yellow"
+		  }
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/EYDR2aAL",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/EYDR2aAL/5-v%C3%ADdeo-youtube-titulo",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  {
+			"bytes": null,
+			"date": "2020-09-01T16:59:18.830Z",
+			"edgeColor": null,
+			"idMember": "5ef97cd9ee05834c1b80ed5e",
+			"isUpload": false,
+			"mimeType": "",
+			"name": "video-link",
+			"previews": [
+			  
+			],
+			"url": "https://www.youtube.com/watch?v=uX3QieANqxc",
+			"pos": 16384,
+			"fileName": null,
+			"id": "5f4e7de60fd5d9788ffd9267"
+		  }
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  },
+	  {
+		"id": "5f4e7d9ef8615e0b4e18b0c0",
+		"address": null,
+		"checkItemStates": null,
+		"closed": false,
+		"coordinates": null,
+		"creationMethod": null,
+		"dateLastActivity": "2020-09-01T16:58:06.094Z",
+		"desc": "",
+		"descData": null,
+		"dueReminder": null,
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"idLabels": [
+		  
+		],
+		"idList": "5f4e7a781538434c71f7f423",
+		"idMembersVoted": [
+		  
+		],
+		"idShort": 6,
+		"idAttachmentCover": null,
+		"locationName": null,
+		"manualCoverAttachment": false,
+		"name": "Video Facebook",
+		"pos": 131071,
+		"shortLink": "YwBpanxB",
+		"isTemplate": false,
+		"badges": {
+		  "attachmentsByType": {
+			"trello": {
+			  "board": 0,
+			  "card": 0
+			}
+		  },
+		  "location": false,
+		  "votes": 0,
+		  "viewingMemberVoted": false,
+		  "subscribed": false,
+		  "fogbugz": "",
+		  "checkItems": 0,
+		  "checkItemsChecked": 0,
+		  "checkItemsEarliestDue": null,
+		  "comments": 0,
+		  "attachments": 0,
+		  "description": false,
+		  "due": null,
+		  "dueComplete": false,
+		  "start": null
+		},
+		"dueComplete": false,
+		"due": null,
+		"email": "matheusjonath+2ul8g480zin4pph3qe6+2uy5a32br7443eovirk+220st03m6r@boards.trello.com",
+		"idChecklists": [
+		  
+		],
+		"idMembers": [
+		  
+		],
+		"labels": [
+		  
+		],
+		"limits": {
+		  "attachments": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 1000,
+			  "warnAt": 900
+			}
+		  },
+		  "checklists": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 500,
+			  "warnAt": 450
+			}
+		  },
+		  "stickers": {
+			"perCard": {
+			  "status": "ok",
+			  "disableAt": 70,
+			  "warnAt": 63
+			}
+		  }
+		},
+		"shortUrl": "https://trello.com/c/YwBpanxB",
+		"start": null,
+		"subscribed": false,
+		"url": "https://trello.com/c/YwBpanxB/6-video-facebook",
+		"cover": {
+		  "idAttachment": null,
+		  "color": null,
+		  "idUploadedBackground": null,
+		  "size": "normal",
+		  "brightness": "light"
+		},
+		"attachments": [
+		  
+		],
+		"pluginData": [
+		  
+		],
+		"customFieldItems": [
+		  
+		]
+	  }
+	],
+	"labels": [
+	  {
+		"id": "5f4e7a78cdabcf46c051d6e2",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"name": "postar",
+		"color": "red"
+	  },
+	  {
+		"id": "5f4e7a78cdabcf46c051d6de",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"name": "arquivo",
+		"color": "purple"
+	  },
+	  {
+		"id": "5f4e7a78cdabcf46c051d6e1",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"name": "link",
+		"color": "yellow"
+	  },
+	  {
+		"id": "5f4e7a78cdabcf46c051d6e8",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"name": "",
+		"color": "blue"
+	  }
+	],
+	"lists": [
+	  {
+		"id": "5f4e7a781538434c71f7f421",
+		"name": "Matemática pra o ENEM",
+		"closed": false,
+		"pos": 16384,
+		"softLimit": null,
+		"creationMethod": "automatic",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"limits": {
+		  "cards": {
+			"openPerList": {
+			  "status": "ok",
+			  "disableAt": 5000,
+			  "warnAt": 4500
+			},
+			"totalPerList": {
+			  "status": "ok",
+			  "disableAt": 1000000,
+			  "warnAt": 900000
+			}
+		  }
+		},
+		"subscribed": false
+	  },
+	  {
+		"id": "5f4e7a781538434c71f7f422",
+		"name": "Matemática Básica",
+		"closed": false,
+		"pos": 32768,
+		"softLimit": null,
+		"creationMethod": "automatic",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"limits": {
+		  "cards": {
+			"openPerList": {
+			  "status": "ok",
+			  "disableAt": 5000,
+			  "warnAt": 4500
+			},
+			"totalPerList": {
+			  "status": "ok",
+			  "disableAt": 1000000,
+			  "warnAt": 900000
+			}
+		  }
+		},
+		"subscribed": false
+	  },
+	  {
+		"id": "5f4e7a781538434c71f7f423",
+		"name": "Links",
+		"closed": false,
+		"pos": 49152,
+		"softLimit": null,
+		"creationMethod": "automatic",
+		"idBoard": "5f4e7a781538434c71f7f420",
+		"limits": {
+		  "cards": {
+			"openPerList": {
+			  "status": "ok",
+			  "disableAt": 5000,
+			  "warnAt": 4500
+			},
+			"totalPerList": {
+			  "status": "ok",
+			  "disableAt": 1000000,
+			  "warnAt": 900000
+			}
+		  }
+		},
+		"subscribed": false
+	  }
+	],
+	"members": [
+	  {
+		"id": "5ef97cd9ee05834c1b80ed5e",
+		"bio": "",
+		"bioData": null,
+		"confirmed": true,
+		"memberType": "normal",
+		"username": "matheusjonatha",
+		"activityBlocked": false,
+		"avatarHash": "b81aefc54cc613a804c9b071d5ad106b",
+		"avatarUrl": "https://trello-members.s3.amazonaws.com/5ef97cd9ee05834c1b80ed5e/b81aefc54cc613a804c9b071d5ad106b",
+		"fullName": "Matheus Jonatha",
+		"idEnterprise": null,
+		"idEnterprisesDeactivated": [
+		  
+		],
+		"idMemberReferrer": null,
+		"idPremOrgsAdmin": [
+		  
+		],
+		"initials": "MJ",
+		"nonPublic": {
+		  
+		},
+		"nonPublicAvailable": false,
+		"products": [
+		  
+		],
+		"url": "https://trello.com/matheusjonatha",
+		"status": "disconnected"
+	  }
+	],
+	"checklists": [
+	  
+	],
+	"customFields": [
+	  
+	],
+	"memberships": [
+	  {
+		"id": "5f4e7a781538434c71f7f424",
+		"idMember": "5ef97cd9ee05834c1b80ed5e",
+		"memberType": "admin",
+		"unconfirmed": false,
+		"deactivated": false
+	  }
+	],
+	"pluginData": [
+	  
+	]
+  }
